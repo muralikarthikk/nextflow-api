@@ -1,0 +1,9 @@
+_workflows
+
+helm/.helmignore
+helm/.nextflow.log
+helm/.sops.yaml
+helm/templates/secret.yaml
+
+.nextflow*
+*.pyc
